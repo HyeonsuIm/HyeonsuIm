@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **HyeonsuIm/HyeonsuIm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +14,5 @@ Here are some ideas to get you started:
 -->
 
 알고리즘 공부 중..
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ees1307)](https://solved.ac/ees1307/)
