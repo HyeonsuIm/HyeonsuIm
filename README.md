@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 알고리즘 공부 중..
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ees1307)](https://solved.ac/ees1307/)-->
+
+h1. 💪Skills
+
+Language
+![C](https://img.shields.io/badge/C-0080FF.svg?&style=for-the-badge&logo=C&logoColor=White)
+![C++](https://img.shields.io/badge/C++-0080FF.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=White)
+![python](https://img.shields.io/badge/python-0080FF.svg?&style=for-the-badge&logo=python&logoColor=White)
