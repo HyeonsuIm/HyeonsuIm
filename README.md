@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 알고리즘 공부 중..
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ees1307)](https://solved.ac/ees1307/)
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ees1307)](https://solved.ac/ees1307/)-->
