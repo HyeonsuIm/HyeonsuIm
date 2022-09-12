@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+![github stats](https://github-readme-stats.vercel.app/api?username=HyeonsuIm&theme=codeSTACKr)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonsuIm&theme=codeSTACKr)
+
 알고리즘 공부 중..
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ees1307)](https://solved.ac/ees1307/)
@@ -22,16 +26,23 @@ Here are some ideas to get you started:
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-0080FF.svg?&style=for-the-badge&logo=C&logoColor=White)
-![C++](https://img.shields.io/badge/C++-0080FF.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=White)
-![python](https://img.shields.io/badge/python-0080FF.svg?&style=for-the-badge&logo=python&logoColor=White)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Collaboration
-![Jira](https://img.shields.io/badge/Jira-0080FF.svg?&style=for-the-badge&logo=Jira&logoColor=White)
-![Confluence](https://img.shields.io/badge/Confluence-0080FF.svg?&style=for-the-badge&logo=Confluence&logoColor=White)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=Confluence&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
 ### Tools
-![GitHub](https://img.shields.io/badge/GitHub-0080FF.svg?&style=for-the-badge&logo=GitHub&logoColor=White)
-![Git](https://img.shields.io/badge/Git-0080FF.svg?&style=for-the-badge&logo=Git&logoColor=White)
-![Svn](https://img.shields.io/badge/Svn-0080FF.svg?&style=for-the-badge&logo=Svn&logoColor=White)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Svn](https://img.shields.io/badge/Subversion-809CC9.svg?style=for-the-badge&logo=Subversion&logoColor=white)
+![CMAKE](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
