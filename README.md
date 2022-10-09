@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=HyeonsuIm&theme=codeSTACKr)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonsuIm&theme=codeSTACKr&show_icons=true&layout=compact&count_private=true)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonsuIm&theme=codeSTACKr&langs_count=8&hide=tcl,teX&layout=compact&count_private=true)
 
 알고리즘 공부 중..
 
