@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=nubs%20home&fontSize=90)
+<!--![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=nubs%20home&fontSize=90) 
+-->
 
 ## 💻stats
 
