@@ -1,5 +1,14 @@
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=nubs%20home&fontSize=90)
+
+## 💻stats
+
+### Github stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=HyeonsuIm&theme=codeSTACKr)
+
+### Used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeonsuIm&theme=codeSTACKr&langs_count=8&hide=tcl,teX&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Backjon score
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ees1307)](https://solved.ac/ees1307/)
 
 
